@@ -1,0 +1,3 @@
+im doc2 from local storage
+
+
